@@ -7,7 +7,7 @@
     <center><hl>Data Mahasiswa</hl></center>
     <table style="margin:20px auto;" border="1">
         <tr>
-            <th>NO</th>
+            <th>No</th>
             <th>NIM</th>
             <th>Nama</th>
             <th>Alamat</th>
